@@ -24,14 +24,14 @@ let track_list = [
     {
     name: "DREAM 119",
     artist: "NCT",
-    image: "Tia.png",
+    image: "/images/Tia.png",
     path: "Nct dream 119.mp3"
   },
   
    {
     name: "Pura pura lupa",
     artist: "Mahen | Andi Adinata Cover",
-    image: "Pura.png" ,
+    image: "/images/Pura.png" ,
     path: "Pura-pura lupa.mp3"
   },
   
@@ -39,7 +39,7 @@ let track_list = [
    {
     name: "Losiento",
     artist: "SUPER JUNIOR",
-    image: "Losiento1.png" ,
+    image: "/images/Losiento1.png" ,
     path: "Losiento.mp3"
   },
   {
@@ -51,13 +51,13 @@ let track_list = [
   {
     name: "Misfit nct u",
     artist: "NCT",
-    image: "Ncttia.png",
+    image: "/images/Ncttia.png",
     path: "Nct.mp3"
   },
   {
     name: "90s love",
     artist: "NCT",
-    image: "90.png",
+    image: "/images/90.png",
     path: "90slove.mp3",
   },
 ];
